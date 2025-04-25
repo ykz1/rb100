@@ -1,0 +1,1 @@
+puts "error handling; helps catch errors and continue executing our program when encountering them"
